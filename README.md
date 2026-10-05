@@ -98,8 +98,9 @@ TruthLens_AI/
 ├── README.md
 ├── .gitignore
 │
-├── data/
-│   └── news.csv
+└── data/
+    └── news.csv
+
 ```
 
 ### File Description
