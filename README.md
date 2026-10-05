@@ -100,9 +100,6 @@ TruthLens_AI/
 │
 ├── data/
 │   └── news.csv
-│
-└── model/
-    └── .gitkeep
 ```
 
 ### File Description

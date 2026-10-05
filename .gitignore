@@ -10,7 +10,7 @@ __pycache__/
 # Training outputs
 training_output/
 
-# Trained model
+# Trained model - keep model files local
 model/*
 !model/.gitkeep
 
